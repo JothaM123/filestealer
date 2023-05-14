@@ -1,0 +1,1 @@
+#Filestealer is a simple web scraper that scrapes files from a particular website given as an argument. Use ethically. Just `git clone <filescraperurl>`, `chmod +x <filename.sh>` and `./<filename.sh> <weburl>`
